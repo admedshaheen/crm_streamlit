@@ -1,0 +1,501 @@
+investor_id,investor_name,investor_type,sector_fouce,check_size_usd,investment_stage,investment_frequency,geographic_focus,last_investment_date
+1001,Miller-Clark,VC,Edtech,6637149,Seed,12,MENA,2024-05-28
+1002,"Holmes, Arellano and Kim",Institutional Investor,AI,5770202,Seed,1,MENA,2025-03-16
+1003,Stephens-Simmons,VC,Fintech,7183366,Series B,9,Europe,2024-11-30
+1004,Robertson-Berg,VC,Healthtech,2853331,Series B,14,North America,2025-01-16
+1005,"Lawrence, Moore and Huber",VC,Consumer Goods,7935478,Series C,15,North America,2024-12-26
+1006,Klein Group,Institutional Investor,AI,8671549,Seed,8,Global,2024-12-03
+1007,Garcia-Thompson,Family Office,Healthtech,2711708,Series A,7,North America,2024-08-01
+1008,Reyes-Rodriguez,Family Office,E-commerce,9270682,Series C,4,North America,2024-07-20
+1009,"Perez, Jenkins and Crawford",VC,Fintech,527179,Series C,8,Global,2024-06-02
+1010,"Clayton, Cobb and Lewis",Private Equity,E-commerce,6885272,Series C,10,MENA,2024-04-28
+1011,Avila PLC,Institutional Investor,Healthtech,2667058,Series A,12,North America,2024-07-04
+1012,Rocha Inc,Private Equity,E-commerce,4579460,Series A,4,Asia,2025-03-06
+1013,Barber PLC,VC,Consumer Goods,9641946,Series C,3,Asia,2024-10-05
+1014,"Franco, Price and Gardner",Private Equity,Biotech,1018741,Series C,3,Europe,2024-07-11
+1015,"Ruiz, Chandler and Fox",Institutional Investor,Biotech,2324569,Series C,1,North America,2024-06-12
+1016,Reynolds LLC,Family Office,Biotech,4032095,Series B,4,Europe,2024-09-19
+1017,"Sexton, Burke and Sanchez",Private Equity,Healthtech,4890982,Series C,2,Europe,2024-04-17
+1018,Wood-Wise,VC,AI,3100107,Series B,15,Asia,2024-10-03
+1019,Williams Inc,VC,SaaS,2562660,Seed,11,Asia,2024-07-29
+1020,Ramos LLC,Family Office,Fintech,9964804,Series B,3,Asia,2024-07-01
+1021,Walker and Sons,VC,E-commerce,7784731,Seed,8,Global,2024-12-24
+1022,Richardson PLC,Family Office,AI,1938860,Series B,8,North America,2024-07-05
+1023,Turner Ltd,Private Equity,SaaS,815876,Series A,1,Asia,2024-10-22
+1024,Young and Sons,Family Office,SaaS,1794726,Seed,11,Asia,2025-01-16
+1025,Green-Jones,Institutional Investor,Edtech,2080550,Seed,9,Global,2024-08-12
+1026,"Carpenter, Anderson and Hernandez",Private Equity,AI,962613,Series C,1,Asia,2025-03-15
+1027,Shah Inc,Institutional Investor,AI,4584252,Series C,4,Europe,2025-03-09
+1028,"Baker, Jenkins and Solomon",Institutional Investor,Edtech,7577264,Seed,11,Asia,2024-05-11
+1029,Smith LLC,Institutional Investor,SaaS,7086421,Seed,1,MENA,2024-10-15
+1030,Lyons LLC,Institutional Investor,Edtech,3374873,Series A,11,Asia,2025-02-09
+1031,Webb PLC,VC,AI,4131095,Series C,7,MENA,2024-07-27
+1032,"Nguyen, Tucker and Clark",VC,E-commerce,295325,Seed,8,North America,2024-06-02
+1033,Daugherty-Rivera,Family Office,E-commerce,8990306,Series C,5,North America,2025-03-01
+1034,Munoz and Sons,Institutional Investor,E-commerce,1579776,Series B,7,Europe,2025-03-26
+1035,Miller-Snyder,Family Office,Edtech,8555554,Series B,5,MENA,2025-01-25
+1036,Vance-Mitchell,Family Office,Edtech,2230645,Series A,3,Europe,2024-05-22
+1037,Henderson-Cox,Private Equity,Biotech,2812429,Seed,2,Europe,2024-08-20
+1038,Davis Inc,Institutional Investor,Edtech,5778631,Series C,12,Global,2024-06-07
+1039,"Cooper, Miller and Martin",Family Office,Edtech,5097378,Series A,15,MENA,2024-09-21
+1040,Brown-Farmer,VC,E-commerce,6969067,Series B,1,Europe,2025-03-16
+1041,Byrd Inc,Institutional Investor,Consumer Goods,742563,Series A,13,North America,2025-02-10
+1042,Snyder Ltd,Institutional Investor,Consumer Goods,2704928,Series A,10,Europe,2024-06-27
+1043,"Lopez, Hughes and Page",Private Equity,SaaS,8347710,Series B,14,Global,2024-06-07
+1044,Smith and Sons,Private Equity,Consumer Goods,2429192,Series A,15,MENA,2024-11-21
+1045,Mejia LLC,Private Equity,Healthtech,2243213,Series B,12,Global,2024-12-10
+1046,"Kaufman, Norris and Liu",Family Office,Edtech,5898961,Seed,4,Europe,2024-07-02
+1047,Madden Group,VC,SaaS,3387902,Series B,4,North America,2024-09-07
+1048,Gallagher LLC,VC,E-commerce,7377853,Series C,5,North America,2024-06-02
+1049,Serrano and Sons,Private Equity,SaaS,3261127,Seed,2,Europe,2024-09-05
+1050,"Jones, Hudson and Underwood",VC,SaaS,5704871,Seed,7,Asia,2024-12-08
+1051,"Castillo, Mack and Potter",Private Equity,E-commerce,1517245,Seed,13,North America,2024-06-04
+1052,Hernandez-Willis,Family Office,AI,7765328,Series A,14,MENA,2024-10-08
+1053,Henson-Robinson,Institutional Investor,Edtech,3325951,Series A,6,Asia,2024-10-24
+1054,Porter-Miller,Institutional Investor,SaaS,349489,Series B,4,MENA,2024-07-15
+1055,"Watson, Brooks and White",Family Office,Edtech,1034862,Series A,9,Global,2025-02-12
+1056,"Wolf, Wilkinson and Harrison",Family Office,Healthtech,2287822,Series B,11,Europe,2025-01-14
+1057,Becker-Webster,Family Office,AI,1931877,Series B,10,MENA,2024-08-18
+1058,Marshall Group,Family Office,Fintech,3515941,Seed,3,Asia,2025-01-19
+1059,Hunt-Johnson,VC,Biotech,4923249,Series A,10,Europe,2025-02-01
+1060,Richard-Russell,VC,Consumer Goods,8679330,Series C,12,North America,2025-03-11
+1061,"Neal, Figueroa and Morrison",VC,E-commerce,4901781,Seed,5,North America,2025-02-21
+1062,Rhodes-White,Private Equity,Edtech,3553541,Series A,1,MENA,2024-08-22
+1063,"Porter, Patel and Beck",Family Office,Edtech,2152861,Seed,3,North America,2024-12-29
+1064,Hunt-Chavez,Institutional Investor,SaaS,9108217,Seed,12,Global,2024-12-07
+1065,Pacheco-Escobar,Private Equity,SaaS,4371139,Series A,8,Europe,2024-05-26
+1066,"Watts, Smith and Rose",Private Equity,Consumer Goods,9953133,Series A,3,North America,2024-10-08
+1067,Ford LLC,Private Equity,Fintech,1284141,Series A,14,Asia,2025-03-08
+1068,"Bryan, Scott and Tucker",Family Office,E-commerce,6960974,Seed,7,MENA,2024-12-07
+1069,"Krueger, Williams and Murphy",Private Equity,Fintech,4841530,Series B,2,Europe,2025-03-15
+1070,Palmer-Stevens,Institutional Investor,SaaS,2243344,Seed,1,Global,2024-04-30
+1071,"Mata, Montes and Velez",Family Office,Consumer Goods,560001,Series B,7,Global,2024-11-28
+1072,Cohen-Watts,VC,AI,8485832,Seed,4,Europe,2024-11-24
+1073,Riley and Sons,VC,E-commerce,3583734,Series C,5,Global,2025-03-13
+1074,"Maddox, Richardson and Williams",VC,E-commerce,9421442,Series B,4,Asia,2024-11-20
+1075,Payne-Lewis,VC,Fintech,5784839,Seed,9,Global,2024-07-07
+1076,"Mason, Miller and Brooks",Institutional Investor,Edtech,856250,Seed,2,Asia,2025-01-01
+1077,Martin-Hardy,Family Office,Consumer Goods,8696686,Seed,6,MENA,2024-05-31
+1078,Robinson-Smith,Institutional Investor,Biotech,242900,Series B,14,Global,2025-01-29
+1079,Espinoza Inc,Family Office,Edtech,7398536,Seed,12,North America,2024-07-06
+1080,Garcia-Harper,VC,Edtech,2739841,Series B,15,Global,2025-03-25
+1081,Gilmore-Fields,VC,Edtech,5829628,Seed,9,MENA,2024-12-04
+1082,Trujillo-Reed,Private Equity,E-commerce,6631971,Series C,6,Global,2025-02-01
+1083,"Lee, Mcguire and Cantrell",Private Equity,Edtech,2048656,Series B,13,Asia,2025-02-17
+1084,Williams Group,Institutional Investor,E-commerce,9175063,Series A,12,Asia,2024-04-14
+1085,Lara-Villa,VC,SaaS,6800378,Series A,10,Asia,2025-02-02
+1086,Floyd-Meyer,VC,Edtech,2542697,Series B,1,North America,2025-01-28
+1087,Haynes-Smith,VC,AI,8369106,Series B,6,Asia,2025-02-11
+1088,"Jackson, Pierce and Hubbard",Private Equity,E-commerce,7053561,Series A,1,Europe,2024-05-07
+1089,Collins-Carr,Institutional Investor,Fintech,3017857,Series A,9,Europe,2024-04-08
+1090,Romero and Sons,VC,Consumer Goods,7737964,Series C,15,North America,2024-06-27
+1091,"Peters, Lucas and Harrison",Private Equity,Biotech,6809647,Series C,3,North America,2024-06-28
+1092,Mathews-Simmons,Institutional Investor,Consumer Goods,2238993,Series A,2,MENA,2024-12-05
+1093,Wilson-Hernandez,Institutional Investor,AI,9162318,Series C,12,North America,2024-04-06
+1094,Pena Group,Institutional Investor,SaaS,4686637,Series C,1,Global,2024-11-25
+1095,"Moreno, Green and Herman",Private Equity,Healthtech,9989973,Seed,8,Asia,2024-07-23
+1096,Anderson-Hood,VC,Healthtech,5402923,Series B,5,MENA,2024-08-12
+1097,Miller PLC,Family Office,Fintech,4064201,Series B,10,Global,2024-06-16
+1098,Gray-Hancock,Institutional Investor,Edtech,341852,Series C,13,North America,2024-06-03
+1099,Adams PLC,VC,Fintech,5608151,Series C,3,Asia,2025-03-14
+1100,Robinson-Galloway,Private Equity,Healthtech,2298280,Series A,4,Europe,2024-07-18
+1101,"Rosario, Ruiz and Ramirez",Private Equity,Fintech,520142,Seed,7,Global,2024-06-16
+1102,"Weaver, Richardson and Gallegos",Family Office,Healthtech,7905334,Seed,8,Global,2024-12-28
+1103,"Thompson, White and Webster",Private Equity,SaaS,8137233,Series C,4,Global,2024-05-19
+1104,Walls LLC,Private Equity,SaaS,7709082,Seed,11,Europe,2025-03-03
+1105,Harris LLC,Private Equity,Biotech,6757164,Series C,3,Asia,2024-06-15
+1106,"Smith, Elliott and Griffin",Institutional Investor,Fintech,124826,Series B,8,Europe,2024-10-08
+1107,Long Ltd,Family Office,AI,6316381,Seed,7,MENA,2024-08-09
+1108,"Robinson, Davidson and Mason",Family Office,SaaS,604414,Series B,6,Global,2024-10-29
+1109,"Bass, Turner and Hicks",Institutional Investor,Healthtech,3528802,Series B,8,Europe,2024-05-21
+1110,"Maldonado, Cole and Anderson",Private Equity,Consumer Goods,3626799,Seed,15,MENA,2024-10-22
+1111,"Henderson, Greer and Williams",VC,Healthtech,4730234,Seed,2,Europe,2024-03-28
+1112,Morris Ltd,Family Office,Edtech,5470084,Series B,8,North America,2024-08-03
+1113,"Whitney, Herring and Kelly",Private Equity,Consumer Goods,5593521,Series C,5,Global,2024-06-19
+1114,"Gill, Clark and Moore",VC,Healthtech,3190739,Series B,6,Global,2024-05-09
+1115,Wright Inc,Institutional Investor,Fintech,1838857,Series A,13,Europe,2024-08-19
+1116,Smith-Vaughn,VC,AI,378039,Series C,5,Asia,2025-01-21
+1117,Williams Group,Institutional Investor,Edtech,8833844,Series A,13,Global,2024-09-23
+1118,Day Inc,VC,Consumer Goods,8584143,Seed,15,Global,2024-11-28
+1119,Santana PLC,Family Office,Edtech,6411857,Series A,2,Europe,2024-07-13
+1120,"Chandler, Walker and Anthony",Family Office,Consumer Goods,2834386,Series C,12,Asia,2024-10-19
+1121,Fuller Ltd,VC,SaaS,3865094,Series B,4,North America,2024-10-03
+1122,Green Ltd,Institutional Investor,Consumer Goods,1022451,Series B,8,MENA,2024-12-08
+1123,Powell and Sons,Private Equity,AI,5637730,Series B,15,Global,2024-10-16
+1124,Ruiz LLC,Private Equity,AI,379178,Series A,2,North America,2024-05-19
+1125,"Hendrix, Ferguson and Martinez",Family Office,E-commerce,4974142,Seed,11,MENA,2024-03-28
+1126,"Mccoy, Cooper and Gonzalez",VC,Consumer Goods,3764339,Series A,9,Asia,2025-01-08
+1127,Daniels Ltd,VC,Edtech,5598232,Series B,1,North America,2024-09-13
+1128,Mckenzie-Miles,Private Equity,SaaS,4012522,Seed,1,Europe,2024-12-22
+1129,"Lynch, Tran and Summers",Family Office,E-commerce,9583622,Series C,12,Asia,2024-10-13
+1130,"Pitts, Wright and Greer",VC,SaaS,6698987,Series C,15,MENA,2024-12-04
+1131,Cox-Smith,Family Office,Edtech,8198276,Series A,6,Europe,2024-04-12
+1132,"Morse, Jones and Anderson",Private Equity,Fintech,5358285,Series C,3,Europe,2024-07-11
+1133,Oneal Group,Institutional Investor,AI,6000114,Series C,8,MENA,2024-09-25
+1134,Martinez-French,Institutional Investor,Healthtech,2519929,Series C,13,MENA,2024-07-05
+1135,"Lewis, Ramos and Nunez",Family Office,SaaS,5952737,Series A,15,MENA,2024-10-31
+1136,Young and Sons,Institutional Investor,Edtech,5401017,Series B,7,Asia,2024-04-12
+1137,"Forbes, Smith and Matthews",Institutional Investor,Consumer Goods,5530975,Series A,8,North America,2024-09-10
+1138,Carpenter Group,VC,Edtech,9627613,Series A,13,Global,2024-06-26
+1139,Davis-Howe,Private Equity,Consumer Goods,9460889,Series A,12,MENA,2024-11-14
+1140,Miller PLC,Private Equity,AI,3873436,Seed,4,MENA,2024-04-19
+1141,Montes-Lee,VC,SaaS,9836947,Series A,5,Global,2024-11-10
+1142,White-Love,Private Equity,Edtech,497704,Series A,10,Global,2024-08-23
+1143,Nichols-Ochoa,Family Office,SaaS,2509704,Series B,4,Global,2025-01-09
+1144,"Mcmillan, Rodriguez and Miller",VC,SaaS,137240,Series A,13,Asia,2025-03-24
+1145,Dennis and Sons,Private Equity,AI,5559200,Series C,4,Asia,2024-05-24
+1146,Miles-Brown,Institutional Investor,SaaS,4419980,Series C,10,Europe,2024-08-03
+1147,"Vega, Andersen and Serrano",VC,Edtech,2023771,Series B,6,MENA,2024-11-23
+1148,Webb-Kim,Institutional Investor,Fintech,5071211,Series C,12,Global,2025-03-22
+1149,"Smith, Stephens and Alvarado",VC,SaaS,8083919,Series C,7,North America,2024-11-28
+1150,Callahan Group,VC,SaaS,5016985,Series C,9,Asia,2025-02-17
+1151,Carrillo-Bass,Institutional Investor,Consumer Goods,615854,Seed,13,Asia,2024-05-02
+1152,"Mitchell, Cuevas and Warren",VC,SaaS,8624104,Series B,12,North America,2025-03-01
+1153,Cordova PLC,Family Office,SaaS,1974598,Seed,15,Global,2024-07-17
+1154,"Chung, Macdonald and Harrison",Institutional Investor,Edtech,7798033,Series B,4,North America,2024-06-26
+1155,Garcia-Moore,Family Office,AI,4705232,Series A,15,Global,2024-05-28
+1156,Ferguson-Murray,Institutional Investor,Healthtech,4853599,Series B,15,Europe,2024-05-21
+1157,"Gomez, Bentley and Valdez",VC,Edtech,5082285,Seed,11,MENA,2024-10-04
+1158,"Phillips, Young and Stevens",VC,Biotech,7179289,Series C,1,MENA,2024-05-12
+1159,Garner and Sons,Family Office,E-commerce,8752487,Series B,2,Europe,2025-02-03
+1160,Wheeler PLC,Institutional Investor,Edtech,2508662,Series B,15,Europe,2025-01-20
+1161,Thompson-Edwards,Institutional Investor,E-commerce,4347555,Series A,5,North America,2024-12-02
+1162,Campbell-Daniel,VC,SaaS,9652798,Seed,15,Global,2024-07-02
+1163,Berger-Aguirre,Private Equity,Healthtech,4689661,Seed,15,Global,2024-10-21
+1164,Mckee Inc,Institutional Investor,Biotech,8422755,Seed,10,Europe,2025-02-20
+1165,Johnson-Vaughn,VC,Healthtech,1128107,Seed,14,Europe,2024-05-23
+1166,Baird-George,VC,AI,7033785,Series B,4,Europe,2024-11-22
+1167,"Padilla, Cameron and Lawson",Private Equity,AI,8396817,Series C,2,MENA,2024-11-07
+1168,White Group,Private Equity,Biotech,3628273,Seed,1,Global,2024-07-10
+1169,Curry-Smith,Family Office,Healthtech,877070,Series C,1,Asia,2024-09-16
+1170,Carter and Sons,Private Equity,Edtech,108798,Seed,4,Asia,2024-04-02
+1171,"Williams, Cummings and Hernandez",Private Equity,AI,6029362,Series B,2,Global,2024-10-22
+1172,Chavez-Adams,Private Equity,Healthtech,456540,Seed,11,Global,2025-01-19
+1173,Brown-Murphy,Institutional Investor,SaaS,1629466,Series A,1,MENA,2024-12-31
+1174,"Brooks, Cantu and Moore",VC,SaaS,8360727,Series B,5,North America,2024-06-01
+1175,Castillo Group,Family Office,E-commerce,8724513,Series B,14,Europe,2024-05-18
+1176,"Mendez, Johnson and Williams",Private Equity,AI,8210159,Series A,6,North America,2025-02-02
+1177,Gomez-Pollard,Family Office,Fintech,7930825,Series B,15,North America,2024-09-17
+1178,Vincent Ltd,Family Office,E-commerce,8676519,Series A,10,Europe,2024-08-14
+1179,"Patterson, Townsend and Ball",Private Equity,Healthtech,6824214,Series C,15,Global,2024-10-22
+1180,Brewer Ltd,VC,Edtech,3499118,Series C,2,Europe,2025-03-07
+1181,Summers LLC,Family Office,Edtech,9066107,Seed,1,MENA,2025-02-07
+1182,Wagner Inc,Institutional Investor,E-commerce,573749,Series B,2,MENA,2024-12-20
+1183,"Kelly, Nichols and Pearson",Private Equity,E-commerce,2505454,Series A,10,Global,2024-07-28
+1184,Coleman Group,Family Office,Edtech,4281016,Series A,15,Global,2024-06-20
+1185,Johnson Inc,VC,AI,2438025,Series C,12,North America,2025-02-20
+1186,Hunt-Robles,Family Office,Fintech,8841124,Series C,15,Europe,2025-01-20
+1187,"Jackson, Edwards and Taylor",Family Office,Biotech,8563410,Seed,2,MENA,2024-10-28
+1188,"Rose, Hayes and Davis",Private Equity,Healthtech,633081,Series B,15,MENA,2024-09-21
+1189,Russo-Hill,Institutional Investor,Healthtech,1798349,Seed,4,Asia,2024-07-29
+1190,Gibson-Rivera,VC,SaaS,4090043,Series C,4,Global,2024-09-12
+1191,Vaughan-West,VC,Consumer Goods,8080776,Seed,7,Europe,2024-11-20
+1192,"Hart, Martin and Walters",VC,AI,5097782,Series A,7,Europe,2024-09-16
+1193,Rice-Ford,Family Office,E-commerce,8876077,Seed,13,MENA,2024-06-25
+1194,Roth-West,Institutional Investor,Healthtech,388153,Series C,9,Europe,2024-09-29
+1195,Douglas LLC,VC,Edtech,356109,Series C,6,Europe,2024-04-17
+1196,Donaldson Group,Private Equity,Consumer Goods,7928195,Series B,10,Asia,2024-04-05
+1197,Mitchell LLC,VC,E-commerce,9689376,Series A,15,MENA,2024-08-21
+1198,"Harris, Lloyd and Richards",Private Equity,SaaS,4170120,Series C,14,Europe,2024-05-11
+1199,"Peterson, Clarke and Jacobson",Private Equity,E-commerce,3523892,Seed,13,Europe,2024-12-14
+1200,Escobar-Burgess,Private Equity,Consumer Goods,771367,Series C,12,Asia,2025-02-08
+1201,"Perkins, Clayton and Butler",Institutional Investor,Edtech,6583591,Series A,10,MENA,2025-02-01
+1202,"Schneider, Walton and Cherry",Family Office,Fintech,1911285,Seed,2,Asia,2024-10-28
+1203,Smith-Hickman,Family Office,Edtech,5936747,Series B,9,Europe,2024-07-28
+1204,Goodwin and Sons,VC,Edtech,1151282,Series B,13,Global,2024-10-26
+1205,Hoffman Inc,VC,Consumer Goods,3501162,Series C,12,Asia,2024-06-18
+1206,Whitaker PLC,Institutional Investor,Biotech,102550,Series B,13,Asia,2024-04-13
+1207,Reyes-Cortez,Family Office,Biotech,589619,Series A,8,Europe,2024-04-27
+1208,"Proctor, Bryan and Scott",VC,Edtech,4359080,Series B,12,Europe,2025-01-23
+1209,Young Inc,Family Office,AI,2919918,Series C,4,Asia,2024-08-21
+1210,Smith and Sons,Institutional Investor,Consumer Goods,5312966,Series A,6,Asia,2024-06-25
+1211,"Valdez, Hernandez and Acosta",Institutional Investor,AI,1116092,Series C,12,North America,2025-02-22
+1212,Sanchez and Sons,Institutional Investor,AI,5913630,Series C,15,Europe,2024-09-08
+1213,"Robinson, Fox and Hoover",Private Equity,Healthtech,8252399,Series C,9,Europe,2024-09-29
+1214,Shah-Joseph,VC,Biotech,9892459,Series A,1,Asia,2024-05-28
+1215,"Tucker, Moses and Mcdaniel",Institutional Investor,SaaS,3563355,Series B,2,Europe,2024-07-23
+1216,"Nelson, Smith and Jensen",Family Office,Healthtech,3071452,Seed,4,Europe,2025-02-06
+1217,Hart-Harmon,Private Equity,Edtech,9536588,Series B,15,North America,2025-03-18
+1218,Castro Ltd,Family Office,Fintech,4289409,Series A,13,Global,2024-07-31
+1219,Aguirre PLC,Private Equity,SaaS,8177279,Series C,8,MENA,2024-09-05
+1220,Hays Ltd,Institutional Investor,Healthtech,6845113,Series A,12,MENA,2024-05-04
+1221,Diaz LLC,Institutional Investor,Healthtech,8817017,Series C,3,Global,2024-05-22
+1222,Hurst-Ewing,Family Office,Biotech,566577,Series C,1,North America,2024-11-03
+1223,Guzman and Sons,Family Office,E-commerce,9943887,Series A,2,Asia,2024-10-13
+1224,King-Brady,Private Equity,AI,1892292,Seed,4,Asia,2024-12-30
+1225,Nguyen-Aguilar,Family Office,Biotech,9167458,Seed,14,Global,2024-12-10
+1226,King Ltd,Family Office,SaaS,692223,Seed,9,Europe,2024-11-20
+1227,"Powell, Smith and Wilson",Private Equity,E-commerce,106114,Series C,9,MENA,2024-08-01
+1228,Reid-Young,Private Equity,Edtech,129741,Series C,11,Asia,2025-01-07
+1229,Thompson-Diaz,Private Equity,Healthtech,5488995,Series B,13,Asia,2024-11-26
+1230,Henry-Woods,Family Office,Fintech,7896593,Series A,4,Europe,2024-09-19
+1231,Ford-Smith,Institutional Investor,Edtech,3956322,Series C,14,Europe,2024-05-19
+1232,"Fry, Miller and Greene",Institutional Investor,E-commerce,6684640,Series B,13,MENA,2024-08-02
+1233,"Heath, Brewer and Lee",Institutional Investor,Consumer Goods,2717275,Series C,6,Europe,2024-10-12
+1234,Smith-Wilson,Private Equity,E-commerce,7175367,Series A,10,North America,2025-01-02
+1235,Michael-Larson,Private Equity,Consumer Goods,5389973,Series C,11,Europe,2024-03-31
+1236,Brown-Noble,Private Equity,E-commerce,9791738,Series B,9,Europe,2025-02-05
+1237,"Neal, Cowan and Newman",Institutional Investor,Healthtech,7695642,Series B,11,Asia,2024-03-29
+1238,Rodriguez-Price,Family Office,Biotech,4116850,Series B,4,Asia,2025-03-27
+1239,Melton Group,VC,Consumer Goods,4450298,Series C,7,Global,2024-07-07
+1240,"Perez, Mccormick and Meyer",Private Equity,SaaS,8588625,Series C,6,Global,2024-07-23
+1241,"Johnson, Bell and Schmidt",Institutional Investor,AI,386848,Seed,8,MENA,2025-02-27
+1242,Nielsen Group,VC,SaaS,4884668,Seed,6,Europe,2024-09-25
+1243,Rivera-Brown,VC,AI,5761616,Seed,3,North America,2024-07-20
+1244,Taylor LLC,Family Office,Consumer Goods,6098818,Series C,6,North America,2024-11-05
+1245,Wright Ltd,Institutional Investor,Edtech,8635620,Seed,4,North America,2024-10-19
+1246,"Santos, Cox and Riley",VC,Fintech,2704446,Series A,15,Asia,2024-10-24
+1247,"Smith, Carpenter and Webb",Institutional Investor,Healthtech,4605084,Series B,9,Global,2024-09-01
+1248,"Miller, Garcia and Williams",VC,Healthtech,9810664,Series C,13,MENA,2025-03-20
+1249,Davis-Pierce,Institutional Investor,Fintech,3987495,Series C,11,Asia,2025-03-25
+1250,Carrillo-Chan,VC,Edtech,5140462,Series A,10,North America,2024-04-29
+1251,Brewer-Hull,VC,Healthtech,6710935,Series C,7,North America,2024-08-13
+1252,Larson-Weiss,Family Office,Healthtech,3513555,Seed,7,MENA,2024-12-22
+1253,Dawson-Cruz,Institutional Investor,Edtech,9312009,Series B,5,Global,2024-12-10
+1254,Brown-Flynn,Institutional Investor,Consumer Goods,5301883,Series A,12,Europe,2024-12-24
+1255,Floyd-Wong,Institutional Investor,Biotech,6528970,Series C,13,North America,2024-07-17
+1256,Mejia Inc,Family Office,SaaS,5170582,Series A,6,Europe,2024-06-01
+1257,Mcdonald-Henry,Institutional Investor,AI,959492,Series C,8,Global,2024-10-12
+1258,"Taylor, Moore and Whitney",VC,SaaS,5724469,Seed,7,MENA,2025-03-01
+1259,King and Sons,Family Office,Healthtech,6763754,Series C,12,Europe,2024-09-22
+1260,House Group,Family Office,SaaS,7204766,Series A,2,Global,2025-02-15
+1261,Mitchell LLC,Private Equity,Biotech,1593538,Series B,9,Europe,2024-10-29
+1262,Alvarez LLC,Private Equity,E-commerce,7290129,Series A,12,Global,2024-11-24
+1263,"Lindsey, Sparks and Bradley",VC,Edtech,9214822,Seed,11,Europe,2025-03-08
+1264,"Chase, Johnson and Grant",Family Office,E-commerce,8514341,Series C,4,MENA,2024-09-09
+1265,"Allen, Wade and Sanchez",VC,E-commerce,6488465,Series C,6,Europe,2024-12-12
+1266,"Gaines, Gonzalez and Donovan",Family Office,Consumer Goods,469202,Seed,5,Asia,2024-04-14
+1267,"Moore, Soto and Williams",Institutional Investor,E-commerce,9529295,Series B,8,Europe,2024-11-16
+1268,"Dalton, Chandler and Murray",Institutional Investor,SaaS,5319944,Series B,1,MENA,2024-08-04
+1269,"Galloway, Castillo and Roach",Family Office,Fintech,7736576,Seed,8,Global,2024-11-27
+1270,"Wolf, Butler and Perez",Private Equity,AI,6048403,Series C,8,MENA,2024-09-19
+1271,"Butler, Cobb and Armstrong",VC,Healthtech,2769259,Series B,5,North America,2024-08-26
+1272,Johnson-Gates,Family Office,Consumer Goods,4380588,Seed,6,Global,2024-11-01
+1273,Brooks Group,VC,E-commerce,122003,Series B,14,North America,2024-11-09
+1274,"Rodriguez, Brooks and Lewis",VC,SaaS,7343983,Series A,14,MENA,2024-12-23
+1275,Sellers-Pruitt,Private Equity,AI,9266437,Series B,1,Asia,2024-08-07
+1276,Powell Group,Institutional Investor,Consumer Goods,8827397,Series A,8,Global,2024-09-02
+1277,"Gallegos, Wilson and Watts",Family Office,Consumer Goods,498027,Seed,1,North America,2024-10-23
+1278,"Gregory, Wade and Wright",VC,Edtech,4311542,Series B,4,Europe,2024-05-03
+1279,Lopez LLC,VC,Biotech,7743982,Seed,13,MENA,2025-03-26
+1280,"Hall, Williams and Gomez",Family Office,AI,3913062,Series A,2,MENA,2024-07-15
+1281,Boyer-Higgins,Institutional Investor,E-commerce,7296599,Seed,9,Europe,2025-01-12
+1282,White Ltd,Family Office,Consumer Goods,1496049,Seed,4,Asia,2024-05-13
+1283,"Williams, Warren and Garcia",VC,SaaS,2605488,Series C,14,MENA,2024-05-15
+1284,Walker-Higgins,Institutional Investor,Healthtech,9571020,Series A,4,MENA,2024-11-14
+1285,"Norton, Williams and Morton",Institutional Investor,Biotech,1599922,Series B,9,Global,2024-06-11
+1286,Benson-Powers,Institutional Investor,E-commerce,9123592,Series C,8,MENA,2024-11-06
+1287,Fuentes and Sons,Private Equity,Edtech,5291870,Series C,9,Global,2024-06-10
+1288,Brown-Myers,VC,Edtech,7717269,Series A,15,Global,2024-12-06
+1289,"Wong, Garner and Taylor",Institutional Investor,Fintech,6684914,Series B,5,Asia,2024-12-14
+1290,Gonzalez-Miller,VC,Biotech,7665944,Series B,7,North America,2025-02-15
+1291,Anderson-Bailey,Family Office,Fintech,7921642,Seed,2,North America,2025-02-14
+1292,Romero-Bray,Private Equity,AI,8884493,Series B,8,Global,2024-05-27
+1293,"Valenzuela, Reese and Bishop",VC,Consumer Goods,4998266,Series A,6,Global,2024-06-20
+1294,Walker PLC,VC,Edtech,5971003,Series C,2,North America,2024-08-03
+1295,Simon-Boyd,Institutional Investor,Fintech,6549722,Series C,7,Asia,2024-07-01
+1296,Carlson Group,Institutional Investor,AI,9328002,Series A,5,Europe,2024-09-22
+1297,Young Ltd,VC,E-commerce,5825920,Series B,3,Global,2024-09-13
+1298,Collins Ltd,Family Office,Edtech,543908,Series A,13,Global,2025-01-03
+1299,Johnson Inc,Private Equity,SaaS,4727209,Series C,2,Europe,2024-12-07
+1300,Gonzalez-Shaw,Institutional Investor,Edtech,8588594,Series B,15,Global,2024-05-18
+1301,Goodman-Obrien,Institutional Investor,Healthtech,6145315,Seed,5,Asia,2024-10-25
+1302,"Perkins, Welch and Stevens",Family Office,AI,3651559,Series C,4,North America,2024-10-19
+1303,"Lowe, Potter and Martinez",Family Office,E-commerce,9093204,Series B,6,North America,2024-12-25
+1304,"Smith, Lambert and Rivera",Private Equity,Biotech,7573155,Series B,13,Europe,2024-06-08
+1305,"Flowers, Sampson and Preston",Institutional Investor,E-commerce,6016489,Series C,3,Asia,2025-02-18
+1306,Joseph Ltd,Institutional Investor,SaaS,8552740,Seed,7,Global,2025-01-10
+1307,Cole and Sons,Private Equity,Consumer Goods,3760204,Series B,12,MENA,2024-07-31
+1308,"Rice, Walker and Miles",Family Office,Consumer Goods,6747661,Series A,14,Global,2024-10-20
+1309,"Moore, Buckley and Hanna",Private Equity,Fintech,2388340,Series C,3,Asia,2025-01-01
+1310,Miller-Ortiz,Family Office,Consumer Goods,1097133,Series B,13,MENA,2024-07-18
+1311,"Barrett, Cabrera and Pollard",Private Equity,Biotech,1220180,Series B,7,Global,2024-05-02
+1312,Jordan Ltd,Family Office,Edtech,7548941,Series C,14,MENA,2024-09-19
+1313,Wu LLC,VC,AI,3660817,Series C,9,Europe,2024-11-10
+1314,"Gilmore, Lee and Cannon",Private Equity,Fintech,4486121,Seed,2,Europe,2024-04-11
+1315,"Allen, Oliver and Shaffer",VC,E-commerce,7108789,Series B,6,Asia,2024-10-10
+1316,Carrillo Group,VC,Edtech,2342735,Series A,1,MENA,2024-08-02
+1317,Butler and Sons,Family Office,AI,5864734,Series B,13,Global,2024-10-17
+1318,Mckinney PLC,VC,Healthtech,2012890,Seed,10,Asia,2024-04-04
+1319,"Brown, Eaton and Miller",Family Office,Healthtech,6612831,Series B,7,Global,2024-12-18
+1320,Patterson-Boyd,Family Office,SaaS,5433750,Series B,10,MENA,2024-11-27
+1321,Porter-Davis,Family Office,Edtech,596269,Series A,6,MENA,2024-11-08
+1322,Sandoval-Long,VC,Biotech,8625739,Series A,11,MENA,2024-08-04
+1323,"Romero, Hood and Walker",VC,Edtech,5902306,Series A,7,Europe,2024-07-05
+1324,"Lewis, Holland and Bennett",Private Equity,Fintech,9332652,Series B,4,Europe,2025-01-05
+1325,Ortiz-Harvey,Institutional Investor,Fintech,1769410,Series C,4,MENA,2024-04-17
+1326,Ford-Rivera,Family Office,AI,3369986,Series B,1,Europe,2024-04-26
+1327,Hammond Ltd,Institutional Investor,AI,565174,Seed,13,Europe,2024-06-01
+1328,"Robinson, Martin and Fowler",Family Office,AI,2478830,Series C,12,North America,2024-09-27
+1329,"Rice, Johnson and Fisher",Private Equity,SaaS,7970003,Series B,10,Global,2024-07-13
+1330,Montoya-Bailey,Private Equity,Healthtech,7390087,Series B,10,Global,2024-04-22
+1331,Harrison-Garrett,Institutional Investor,SaaS,6228630,Series A,11,MENA,2024-05-12
+1332,Little Inc,Institutional Investor,Healthtech,5626161,Seed,4,MENA,2024-10-11
+1333,"Peterson, Dixon and Woods",Private Equity,E-commerce,5630959,Series B,7,Europe,2024-06-19
+1334,Williams-Wolf,VC,SaaS,1867106,Series C,6,Europe,2025-02-25
+1335,Silva Group,VC,Fintech,4968560,Series C,14,North America,2025-03-22
+1336,"Alvarado, Johnson and Harris",Institutional Investor,Consumer Goods,7048785,Series C,3,Global,2024-12-12
+1337,Nelson-Dougherty,Family Office,Edtech,1558542,Series B,15,Global,2024-09-27
+1338,Frazier LLC,VC,Fintech,9044629,Series A,13,Global,2024-05-18
+1339,Wiley and Sons,Family Office,SaaS,9661242,Seed,15,MENA,2025-02-17
+1340,"Cox, Johnson and Lopez",VC,E-commerce,1712918,Seed,9,MENA,2024-07-01
+1341,Lewis PLC,VC,E-commerce,8070360,Series B,11,Global,2024-07-22
+1342,Zamora Group,Institutional Investor,Edtech,6043100,Series A,4,Asia,2024-09-22
+1343,"Johnson, Pitts and Mcclure",Private Equity,Healthtech,2202598,Seed,2,Global,2024-11-30
+1344,Hale Inc,Family Office,Edtech,2046470,Series C,1,Asia,2024-04-01
+1345,"Lyons, Arnold and Cervantes",Private Equity,Fintech,9703894,Seed,2,Global,2024-04-16
+1346,Johnson-Evans,Family Office,Fintech,4361054,Series B,11,North America,2024-08-21
+1347,Evans Inc,Private Equity,SaaS,7173118,Series A,2,Europe,2024-05-22
+1348,Banks-Sanchez,VC,E-commerce,8128069,Series C,13,Europe,2024-10-27
+1349,"Collins, Sweeney and Kim",Institutional Investor,Consumer Goods,4652428,Series C,6,Asia,2024-07-04
+1350,"Schwartz, Holmes and Bell",Private Equity,SaaS,898086,Series A,14,North America,2025-03-20
+1351,Stephens and Sons,Private Equity,E-commerce,1874212,Series C,14,Asia,2024-11-27
+1352,"Baker, Price and Shaw",Family Office,Edtech,7126405,Seed,15,North America,2024-06-15
+1353,Acevedo-Miller,Institutional Investor,SaaS,2283214,Seed,12,North America,2024-12-29
+1354,Hoover-Hutchinson,Private Equity,Fintech,4284857,Seed,8,MENA,2024-06-15
+1355,"Hicks, Cantrell and Sanchez",Family Office,SaaS,1086552,Seed,12,Global,2024-06-23
+1356,"Bailey, Parker and Green",Private Equity,Edtech,1648638,Series B,1,Asia,2024-10-24
+1357,Jordan-Ortiz,Institutional Investor,E-commerce,8020051,Seed,6,MENA,2025-01-17
+1358,"Cox, Jones and Merritt",Institutional Investor,Biotech,540912,Series A,2,Europe,2025-03-14
+1359,Moore-Phillips,Institutional Investor,AI,1190905,Series B,2,MENA,2024-07-19
+1360,"Jenkins, Walker and Vargas",Institutional Investor,E-commerce,5261702,Series A,5,Asia,2025-02-23
+1361,Stewart-Roberts,Institutional Investor,E-commerce,169058,Series A,5,Europe,2024-04-30
+1362,"Smith, Lester and Figueroa",Private Equity,AI,5009577,Series A,13,Asia,2024-12-10
+1363,"Fitzgerald, Ryan and Burns",Family Office,E-commerce,4696039,Seed,11,Europe,2024-07-28
+1364,Carlson Group,Private Equity,Consumer Goods,4816528,Seed,15,Asia,2025-01-10
+1365,Lee-Williams,VC,Healthtech,4971809,Series A,3,North America,2024-10-23
+1366,Brown Group,Institutional Investor,E-commerce,6648929,Seed,10,North America,2024-12-18
+1367,"Keller, Young and Griffin",Institutional Investor,Fintech,4104401,Series A,1,MENA,2024-05-31
+1368,Fritz-Kelly,Institutional Investor,E-commerce,205278,Series C,10,Global,2025-03-20
+1369,Tucker-Coleman,Private Equity,E-commerce,555395,Series C,4,Asia,2024-04-05
+1370,Lambert-Wilson,Institutional Investor,Fintech,2623919,Series C,11,Asia,2024-10-31
+1371,Gibson-Miranda,VC,Fintech,9330304,Series C,11,MENA,2024-08-01
+1372,Medina-Patel,Family Office,E-commerce,763008,Series B,4,Global,2025-01-05
+1373,Schwartz and Sons,Family Office,SaaS,2602766,Series C,11,Europe,2024-10-19
+1374,West-Howard,Institutional Investor,Edtech,1710344,Series A,11,MENA,2025-03-19
+1375,Hardy Inc,Family Office,SaaS,5585707,Seed,15,MENA,2024-12-23
+1376,Mcfarland-Yu,Family Office,E-commerce,8272965,Series C,11,Asia,2025-03-06
+1377,Davis-Martin,Private Equity,SaaS,4087128,Series A,2,Asia,2024-12-03
+1378,Richards-Dougherty,Private Equity,Consumer Goods,9019846,Seed,9,Europe,2024-10-21
+1379,Franklin-Hebert,VC,Consumer Goods,2366612,Series C,2,North America,2024-11-22
+1380,Fisher Group,Private Equity,E-commerce,1526440,Seed,15,MENA,2024-07-27
+1381,Wilson Group,VC,Biotech,6582365,Series B,15,Europe,2025-02-10
+1382,"Hart, Peterson and Simmons",Family Office,Healthtech,6449704,Series A,13,Asia,2024-04-02
+1383,Watson-King,VC,AI,7084920,Series C,6,Asia,2024-07-08
+1384,Matthews-Rodriguez,VC,Healthtech,908238,Series A,14,Global,2024-09-18
+1385,Boyd-Gonzalez,Private Equity,E-commerce,1023913,Series A,7,Asia,2024-10-20
+1386,Sanchez-Dunn,Family Office,Healthtech,4806672,Series B,15,North America,2024-09-22
+1387,Perez-Frye,Institutional Investor,SaaS,2476010,Series B,7,North America,2024-11-12
+1388,Thompson-Rodriguez,VC,SaaS,7340395,Series C,14,MENA,2024-05-05
+1389,Davis LLC,Family Office,Healthtech,1462696,Seed,10,Europe,2024-06-03
+1390,Henry Ltd,Family Office,Edtech,8172938,Series B,2,Asia,2024-12-22
+1391,"Green, Edwards and Poole",Family Office,Healthtech,2119355,Seed,5,North America,2025-03-10
+1392,Glover-Johnson,Private Equity,Biotech,4808284,Seed,7,Asia,2025-03-13
+1393,Silva-Ellis,VC,Healthtech,9872419,Series A,9,Europe,2025-02-14
+1394,Reilly-Phillips,Private Equity,SaaS,2628601,Series C,12,Global,2024-03-30
+1395,Brooks LLC,Institutional Investor,AI,7513348,Series A,13,Europe,2024-09-10
+1396,Jones-Wood,Institutional Investor,Fintech,1386578,Seed,9,Europe,2024-03-28
+1397,Woodward Ltd,Institutional Investor,AI,1382365,Series B,6,MENA,2025-02-14
+1398,Lowery PLC,Private Equity,Fintech,5602146,Series A,13,Global,2025-01-02
+1399,Simpson Inc,Institutional Investor,Biotech,9039319,Series C,15,Global,2024-10-30
+1400,White and Sons,Family Office,SaaS,2768878,Series A,1,Global,2025-01-01
+1401,"Graham, Johnson and Shelton",Family Office,AI,4001270,Series A,8,Global,2024-12-19
+1402,Barr LLC,Private Equity,E-commerce,3913778,Series A,14,Global,2025-03-26
+1403,Reyes-Carroll,VC,SaaS,8451810,Series B,6,MENA,2024-10-01
+1404,"Hernandez, Riddle and Cole",VC,SaaS,4436683,Series B,7,Global,2025-03-19
+1405,"Clayton, Mason and Jackson",Family Office,Biotech,2811860,Series C,13,Global,2024-11-24
+1406,"Carney, Washington and Johnson",VC,AI,4132015,Series B,12,MENA,2024-09-09
+1407,Jackson Group,Private Equity,SaaS,1334088,Seed,14,Asia,2024-08-10
+1408,Pitts PLC,Family Office,Biotech,6568300,Series C,8,Global,2025-01-04
+1409,Sanchez and Sons,Institutional Investor,SaaS,5685457,Seed,3,Asia,2024-12-21
+1410,Clayton-Koch,Institutional Investor,Consumer Goods,5280706,Series B,9,Europe,2024-09-22
+1411,"Davis, Henderson and Lewis",Institutional Investor,E-commerce,3635652,Series B,8,North America,2024-09-04
+1412,Sims-Lewis,Private Equity,Edtech,7049581,Series C,7,MENA,2024-12-16
+1413,Bailey and Sons,Private Equity,SaaS,553730,Series C,13,Europe,2024-12-16
+1414,Johnson PLC,VC,Fintech,6513593,Series B,5,MENA,2024-04-20
+1415,"Sanchez, Thompson and Howard",Private Equity,Healthtech,2195632,Seed,7,Global,2024-05-18
+1416,"Hayes, Waters and Chandler",VC,Biotech,1802889,Series C,2,North America,2024-08-28
+1417,Campbell-Warner,VC,Biotech,7518172,Seed,9,North America,2024-04-13
+1418,Shaffer-Figueroa,Family Office,Healthtech,4315428,Series C,12,Asia,2025-01-30
+1419,Collins Inc,Family Office,Healthtech,934104,Series C,10,Asia,2024-05-04
+1420,Ford-Hamilton,VC,Consumer Goods,2764909,Series B,8,Asia,2024-08-06
+1421,Alexander Group,Family Office,Edtech,2411329,Series B,7,North America,2025-02-12
+1422,Weber-Lewis,Family Office,Healthtech,6794370,Series C,14,MENA,2024-11-11
+1423,Jones PLC,Institutional Investor,AI,9231586,Series C,10,Asia,2025-01-25
+1424,Owens-Stanton,VC,SaaS,6551083,Seed,13,Asia,2024-06-19
+1425,"Gray, Jackson and Newman",Private Equity,Fintech,3030356,Series A,6,Global,2024-07-25
+1426,Gentry-Allison,VC,Consumer Goods,3577952,Series C,10,Europe,2024-10-25
+1427,Arroyo-Holloway,Institutional Investor,Consumer Goods,8573292,Series C,10,Asia,2024-12-18
+1428,Black LLC,Institutional Investor,SaaS,9905442,Series B,10,Global,2024-10-10
+1429,"Macias, Green and Wright",VC,Biotech,7948093,Seed,7,North America,2024-12-24
+1430,Hartman Ltd,Private Equity,Edtech,4629882,Series A,3,North America,2024-10-10
+1431,Perez LLC,VC,E-commerce,168389,Series C,5,North America,2025-03-09
+1432,"White, Hughes and Harris",Family Office,Biotech,3372124,Series A,9,Asia,2025-01-24
+1433,Gill-Arnold,VC,AI,9908456,Series C,9,Global,2024-04-26
+1434,Hinton Group,VC,Biotech,1947303,Series B,6,MENA,2024-09-26
+1435,"Evans, Reynolds and Cochran",Institutional Investor,AI,1801578,Series A,12,MENA,2025-02-26
+1436,Ray-Mccormick,VC,Consumer Goods,7181700,Series A,10,Europe,2024-12-26
+1437,Rogers Inc,VC,Healthtech,8004615,Series B,15,Asia,2024-04-13
+1438,"Bell, Moyer and Stanton",VC,SaaS,5766689,Series A,10,Global,2024-11-02
+1439,"Burke, Williams and Ward",VC,AI,7424527,Series A,9,Europe,2024-11-30
+1440,"Perez, Diaz and Wheeler",VC,SaaS,4700198,Series A,10,Europe,2024-09-01
+1441,Hernandez-Willis,Family Office,Biotech,6465120,Series A,4,North America,2024-08-05
+1442,Bennett-Jimenez,Institutional Investor,Fintech,5809121,Seed,7,Europe,2024-12-10
+1443,"Skinner, Gomez and Taylor",Family Office,Fintech,1847666,Seed,1,Asia,2024-09-20
+1444,Kent Inc,Institutional Investor,Edtech,172632,Series C,6,MENA,2024-08-21
+1445,Bradley LLC,Family Office,SaaS,6922835,Series C,5,North America,2024-10-09
+1446,Hunter-Lopez,Family Office,E-commerce,9346952,Seed,1,Asia,2024-12-21
+1447,Payne LLC,VC,Biotech,8267707,Seed,4,MENA,2024-10-18
+1448,Rivera-Davis,Private Equity,Healthtech,4325947,Series A,4,North America,2024-07-16
+1449,Meyer-Robles,Family Office,Consumer Goods,8646524,Series B,2,Europe,2024-07-09
+1450,Hutchinson-Barton,VC,Consumer Goods,1620125,Series C,7,Europe,2024-07-19
+1451,Faulkner-Goodman,Private Equity,Edtech,3292556,Series B,3,Europe,2024-07-23
+1452,King-Davis,Family Office,Edtech,9977377,Series C,15,North America,2024-05-12
+1453,Reynolds Ltd,Private Equity,AI,2659650,Seed,4,Europe,2024-09-15
+1454,Miranda Ltd,Institutional Investor,AI,4423602,Series B,14,MENA,2025-03-15
+1455,Dawson-Lynch,VC,Healthtech,7209505,Seed,14,Asia,2024-04-10
+1456,"Adams, Ross and Rosales",Family Office,Fintech,7822039,Series B,11,Europe,2024-07-28
+1457,Romero-Barajas,VC,Fintech,9124378,Series A,6,Europe,2024-10-26
+1458,Greer LLC,VC,Edtech,700703,Series C,12,Global,2024-04-21
+1459,Cole LLC,Private Equity,Consumer Goods,9141080,Seed,8,Europe,2024-10-10
+1460,"Jensen, Turner and Lewis",VC,Consumer Goods,2442275,Series B,6,MENA,2024-08-27
+1461,Glass-Horton,Family Office,Biotech,3570552,Series B,15,Europe,2025-03-04
+1462,Mitchell-Hudson,Family Office,SaaS,4686438,Seed,3,North America,2025-03-20
+1463,Grant PLC,Private Equity,AI,9216910,Series B,4,Asia,2024-09-25
+1464,"Buchanan, Robinson and Long",Family Office,E-commerce,6660466,Seed,9,North America,2025-01-08
+1465,Hooper-Norton,VC,AI,7180142,Series A,5,MENA,2024-04-01
+1466,Davis PLC,VC,Healthtech,2072607,Series B,3,MENA,2025-01-28
+1467,Weaver and Sons,VC,E-commerce,4241788,Seed,12,Europe,2024-05-05
+1468,Pittman LLC,Institutional Investor,AI,9258912,Series C,7,North America,2024-12-15
+1469,Richards-Colon,Private Equity,AI,1563810,Series A,12,MENA,2024-04-02
+1470,"Hall, Martinez and Carter",Institutional Investor,E-commerce,4525091,Seed,3,Asia,2024-12-20
+1471,Armstrong LLC,Private Equity,Biotech,6453939,Series B,11,MENA,2024-04-07
+1472,Torres-Riley,Institutional Investor,SaaS,1595395,Series C,8,Asia,2024-05-03
+1473,Chung Inc,Private Equity,AI,5839863,Seed,10,MENA,2024-03-27
+1474,"Crosby, Price and Parrish",Private Equity,Edtech,5098573,Series C,10,Asia,2024-06-29
+1475,Guzman Group,Family Office,E-commerce,774300,Series A,14,North America,2024-09-30
+1476,Powers Ltd,Institutional Investor,Fintech,862212,Series B,9,Europe,2024-04-18
+1477,Frazier and Sons,VC,AI,5175732,Series C,15,MENA,2024-10-13
+1478,Lee and Sons,Institutional Investor,Biotech,8783083,Series C,7,Global,2024-05-21
+1479,"King, Guerra and Fitzgerald",Institutional Investor,E-commerce,9184175,Series B,1,Global,2024-08-28
+1480,White LLC,Institutional Investor,SaaS,8479268,Series C,4,Asia,2024-03-27
+1481,Howell Ltd,Family Office,AI,1758646,Series A,3,Europe,2024-06-30
+1482,"Sullivan, Williams and Spencer",Institutional Investor,SaaS,381624,Series C,14,Global,2025-01-11
+1483,"Roberts, Alexander and Torres",VC,Healthtech,4388234,Series C,5,Asia,2024-04-25
+1484,Wright-Ramsey,Family Office,Consumer Goods,566492,Seed,10,North America,2024-03-31
+1485,"Roman, Smith and Campbell",VC,E-commerce,2933719,Series A,14,Global,2024-08-21
+1486,Page and Sons,Family Office,Consumer Goods,1492711,Seed,13,MENA,2024-12-30
+1487,Montoya Inc,Family Office,E-commerce,5422122,Seed,1,Europe,2024-07-17
+1488,Moore LLC,VC,E-commerce,9373720,Series B,11,Europe,2024-06-17
+1489,Le-Taylor,Family Office,SaaS,4700179,Series C,3,Europe,2025-02-03
+1490,Ramos LLC,Family Office,Biotech,8401902,Series B,13,Asia,2024-07-25
+1491,King LLC,VC,Edtech,9959476,Series A,13,Europe,2025-02-20
+1492,"Smith, Griffin and Richmond",VC,Consumer Goods,3523210,Seed,12,Europe,2024-12-07
+1493,"Mercer, Campbell and Wood",Private Equity,Edtech,9175636,Seed,12,Asia,2024-11-07
+1494,Yang-Hanna,Private Equity,Edtech,122359,Series A,13,Europe,2025-02-23
+1495,"Hall, Turner and Stewart",Family Office,E-commerce,8670455,Series B,13,North America,2024-07-23
+1496,Morgan-Allen,Private Equity,Fintech,6836508,Series B,12,Asia,2024-05-02
+1497,Lambert Inc,Institutional Investor,Fintech,2937963,Series B,10,Asia,2024-10-28
+1498,Lee Inc,Private Equity,Consumer Goods,5129986,Series A,15,Asia,2024-12-26
+1499,Vincent-Holland,Family Office,E-commerce,3132011,Series A,1,MENA,2024-09-01
+1500,"Howard, Edwards and Butler",Family Office,SaaS,4610851,Series C,13,Global,2024-10-04
